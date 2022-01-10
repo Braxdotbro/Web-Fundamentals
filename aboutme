@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <h2> Braxton Brophy</h2>
+    <p>My name is Braxton, I'm from Utah and I'm majoring in Graphic Design</p>
+    <p>My favorite past times include games of the video and board variety, drawing, going to conventions and dressing up, and roller coasters and theme parks, I could go on forever about them.</p>
+    <p>
+<img src="Images/6wIDgkl.jpg" alt="Daft Punk wallpaper">
+
+
+</body>
+</html>
